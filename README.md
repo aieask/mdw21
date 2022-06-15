@@ -24,25 +24,25 @@ This workshop presents a basic overview of different SRAM Cell Designs using [LT
 	- Calculate the leakage power of a 50fin inverter and compare it with a 22nm planar FET inverter of the same width.
 
 Schematic Diagram :
-- NMOS: Id vs Vgs Schematic Diagram
-<img src = "lab1/nmos_id_vgs_l1.jpg">
-- NMOS: Id vs Vds Schematic Diagram
-<img src = "lab1/nmos_id_vds_l1.jpg">
-- PMOS: Id vs Vgs Schematic Diagram
-<img src = "lab1/pmos_id_vgs_l1.jpg">
-- PMOS: Id vs Vds Schematic Diagram
-<img src = "lab1/pmos_id_vds.jpg">
+- NMOS: Id vs Vgs Schematic Diagram </br>
+  <img src = "lab1/nmos_id_vgs_l1.jpg" width="50%" height="50%"> </br>
+- NMOS: Id vs Vds Schematic Diagram  </br> 
+  <img src = "lab1/nmos_id_vds_l1.jpg" width="50%" height="50%"> </br>
+- PMOS: Id vs Vgs Schematic Diagram  </br> 
+  <img src = "lab1/pmos_id_vgs_l1.jpg" width="50%" height="50%"> </br>
+- PMOS: Id vs Vds Schematic Diagram  </br> 
+  <img src = "lab1/pmos_id_vds.jpg" width="50%" height="50%"> </br>
 
 Resultant Waveform :
-- NMOS: Id vs Vgs plots
-<img src = "lab1/op_nmos_id_vgs.jpg">
-Different colors showing different values of Id when w = 320, 640, 960, 3200, 4200n
-- NMOS: Id vs Vds plots
-<img src = "lab1/op_nmos_id_vds.jpg">
-Different colors showing different values of Id when Vgs = 0, 1, 2, 3, 4, 5 V
-- PMOS: Id vs Vgs plots
-<img src = "lab1/op_nmos_id_vgs.jpg">
-Different colors showing different values of Id when w = 320, 640, 960, 3200, 4200n
-- PMOS: Id vs Vds plots
-<img src = "lab1/op_pmos_id_vds.jpg">
-Different colors showing different values of Id when Vgs = 0, 1, 2, 3, 4, 5 V
+- NMOS: Id vs Vgs plots </br>
+<img src = "lab1/op_nmos_id_vgs.jpg" width="70%" height="70%"> </br>
+Different colors showing different values of Id when w = 320, 640, 960, 3200, 4200n </br>
+- NMOS: Id vs Vds plots </br>
+<img src = "lab1/op_nmos_id_vds.jpg" width="70%" height="70%"> </br>
+Different colors showing different values of Id when Vgs = 0, 1, 2, 3, 4, 5 V </br>
+- PMOS: Id vs Vgs plots </br>
+<img src = "lab1/op_nmos_id_vgs.jpg" width="70%" height="70%"> </br>
+Different colors showing different values of Id when w = 320, 640, 960, 3200, 4200n </br>
+- PMOS: Id vs Vds plots </br>
+<img src = "lab1/op_pmos_id_vds.jpg" width="70%" height="70%"> </br>
+Different colors showing different values of Id when Vgs = 0, 1, 2, 3, 4, 5 V </br>
