@@ -46,3 +46,36 @@ Different colors showing different values of Id when w = 320, 640, 960, 3200, 42
 - PMOS: Id vs Vds plots </br>
 <img src = "lab1/op_pmos_id_vds.jpg" width="70%" height="70%"> </br>
 Different colors showing different values of Id when Vgs = 0, 1, 2, 3, 4, 5 V </br>
+
+
+## Lab 2
+- Run an inverter transient and DC analysis.
+- Assignment :
+	- Calculate the power of a nominally sized inverter driving a load of 1fF/5fF.
+	- Calculate Fan out of 1 (FO1) and Fan out of 4 (F04) delay of the nominally sized inverter at nominal and +/-10% supply.
+	- Calculate the leakage power of a 50fin inverter and compare it with a 22nm planar FET inverter of the same width.
+
+Schematic Diagram :
+- CMOS Inverter Schematic Diagram </br>
+DC Analysis </br>
+<img src = "lab2/dc_cmos_inv.jpg" width="50%" height="50%"> </br>
+AC Analysis </br>
+<img src = "lab2/ac_cmos_inv.jpg" width="50%" height="50%"> </br>
+Transient Analysis </br>
+<img src = "lab2/cmos_inv.jpg" width="50%" height="50%"> </br>
+
+Resultant Waveform :
+- CMOS Inverter Waveform </br>
+DC Analysis </br>
+<img src = "lab2/op_dc_cmos_inv.jpg" width="70%" height="70%"> </br>
+AC Analysis </br>
+<img src = "lab2/op_ac_cmos_inv_corr.jpg" width="70%" height="70%"> </br>
+Transient Analysis </br>
+<img src = "lab2/op_cmos_inv.jpg" width="70%" height="70%"> </br>
+- Power Analysis </br>
+Load = 1fF </br>
+<img src = "lab2/power_cmos_1f.jpg" width="70%" height="70%"> </br>
+Total Power consumed by CMOS Inverter = 201.78 μW (PMOS) + 202.57 μW (NMOS) </br>
+Load = 5fF </br>
+<img src = "lab2/power_cmos_5f.jpg" width="70%" height="70%"> </br>
+Total Power consumed by CMOS Inverter = 202.57 μW (PMOS) + 202.83 μW (NMOS) </br>
