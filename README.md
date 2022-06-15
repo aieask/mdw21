@@ -86,15 +86,47 @@ Total Power consumed by CMOS Inverter = 202.57 μW (PMOS) + 202.83 μW (NMOS) </
 - Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) and [Link](https://engineering.purdue.edu/~vlsi/ECE559_Fall09/HW/HW6_Solution.pdf)
 
 Schematic Diagram :
-- 6T SRAM Cell </br>
+- Transient Analysis of 6T SRAM Cell </br>
 <img src = "lab3/sram_6t.jpg" width="50%" height="50%"> </br>
 - Static-noise margin analysis of 6T SRAM Cell </br>
 <img src = "lab3/sram_6t_snm.jpg" width="50%" height="50%"> </br>
 
 Resultant Waveform :
-- 6T SRAM Cell </br>
+- Transient Analysis of 6T SRAM Cell </br>
 <img src = "lab3/op_Sram_6t.jpg" width="70%" height="70%"> </br>
 - Static-noise margin analysis of 6T SRAM Cell </br>
 <img src = "lab3/op_sram6t_snm_1.jpg" width="70%" height="70%"> </br>
 <img src = "lab3/op_sram6t_snm_2.jpg" width="70%" height="70%"> </br>
 <img src = "lab3/op_sram6t_snm_3.jpg" width="70%" height="70%"> </br>
+
+
+## Lab 4
+- Desing and Analysis of 8T and 10T SRAM Cell.
+- Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) and [Link](https://engineering.purdue.edu/~vlsi/ECE559_Fall09/HW/HW6_Solution.pdf)
+
+Schematic Diagram :
+- Transient Analysis of 8T SRAM Cell </br>
+<img src = "lab4/sram_8t/sram_8t.jpg" width="50%" height="50%"> </br>
+- Static-noise margin analysis of 6T SRAM Cell </br>
+<img src = "lab4/sram_8t/sram8t_snm.jpg" width="50%" height="50%"> </br>
+
+- Transient Analysis of 10T SRAM Cell </br>
+<img src = "lab4/sram_10t/sram_10t.jpg" width="50%" height="50%"> </br>
+- Static-noise margin analysis of 10T SRAM Cell </br>
+<img src = "lab4/sram_10t/sram10t_snm.jpg" width="50%" height="50%"> </br>
+
+Resultant Waveform :
+- Transient Analysis of 8T SRAM Cell </br>
+<img src = "lab4/sram_8t/op_sram8t.jpg" width="70%" height="70%"> </br>
+- Static-noise margin analysis of 8T SRAM Cell </br>
+<img src = "lab4/sram_8t/op_sram8t_snm.jpg" width="70%" height="70%"> </br>
+<img src = "lab4/sram_8t/op_sram8t_snm_1.jpg" width="70%" height="70%"> </br>
+<img src = "lab4/sram_8t/op_sram8t_snm_2.jpg" width="70%" height="70%"> </br>
+
+- Transient Analysis of 10T SRAM Cell </br>
+<img src = "lab4/sram_10t/op_sram10t.jpg" width="70%" height="70%"> </br>
+- Static-noise margin analysis of 10T SRAM Cell </br>
+<img src = "lab4/sram_10t/op_sram10t_snm_1_1.jpg" width="70%" height="70%"> </br>
+<img src = "lab4/sram_10t/op_sram_10t_snm_2_1.jpg" width="70%" height="70%"> </br>
+<img src = "lab4/sram_10t/op_sram10t_snm_3.jpg" width="70%" height="70%"> </br>
+
