@@ -86,15 +86,15 @@ Total Power consumed by CMOS Inverter = 202.57 μW (PMOS) + 202.83 μW (NMOS) </
 - Perform Static-noise margin analysis of the same refer to this ["Static-noise margin analysis of MOS SRAM cells"](https://ieeexplore.ieee.org/document/1052809) and [Link](https://engineering.purdue.edu/~vlsi/ECE559_Fall09/HW/HW6_Solution.pdf)
 
 Schematic Diagram :
-6T SRAM Cell </br>
+- 6T SRAM Cell </br>
 <img src = "lab3/sram_6t.jpg" width="50%" height="50%"> </br>
-Static-noise margin analysis of 6T SRAM Cell </br>
+- Static-noise margin analysis of 6T SRAM Cell </br>
 <img src = "lab3/sram_6t_snm.jpg" width="50%" height="50%"> </br>
 
 Resultant Waveform :
-6T SRAM Cell </br>
+- 6T SRAM Cell </br>
 <img src = "lab3/op_Sram_6t.jpg" width="70%" height="70%"> </br>
-Static-noise margin analysis of 6T SRAM Cell </br>
+- Static-noise margin analysis of 6T SRAM Cell </br>
 <img src = "lab3/op_sram6t_snm_1.jpg" width="70%" height="70%"> </br>
 <img src = "lab3/op_sram6t_snm_2.jpg" width="70%" height="70%"> </br>
 <img src = "lab3/op_sram6t_snm_3.jpg" width="70%" height="70%"> </br>
