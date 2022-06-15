@@ -130,3 +130,8 @@ Resultant Waveform :
 <img src = "lab4/sram_10t/op_sram_10t_snm_2_1.jpg" width="70%" height="70%"> </br>
 <img src = "lab4/sram_10t/op_sram10t_snm_3.jpg" width="70%" height="70%"> </br>
 
+
+## Future Scope
+- Work on getting specifications and change your designs according to them.
+- After changing in your design, make this design as your own IP.
+- Design Layouts and Verify them with LVS and DRC Checks.
